@@ -1,8 +1,11 @@
+///Adam Pacek
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "priority_queue_list.h"
 #pragma warning(disable:4996)
+
 
 typedef struct process process;
 struct process {
